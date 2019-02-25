@@ -1,0 +1,32 @@
+Å´transitions⁄¢[
+  {
+    "clas":0,
+    "move":1,
+    "label":"B-Symptom",
+    "name":"B-B-Symptom"
+  },
+  {
+    "clas":1,
+    "move":2,
+    "label":"B-Symptom",
+    "name":"I-B-Symptom"
+  },
+  {
+    "clas":2,
+    "move":3,
+    "label":"B-Symptom",
+    "name":"L-B-Symptom"
+  },
+  {
+    "clas":3,
+    "move":4,
+    "label":"B-Symptom",
+    "name":"U-B-Symptom"
+  },
+  {
+    "clas":4,
+    "move":5,
+    "label":"",
+    "name":"O"
+  }
+]
